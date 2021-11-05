@@ -1,0 +1,19 @@
+
+# answers file
+
+1) how much time would it take to do the same job manually?
+   filtering the non latin names would take around 1 minute,
+   going over each URL and searching midfielder would take around 5 for each player
+   so assuming this is correct and we have N midfield players it would take 1+5*N minutes
+
+2) conclusions and other usecases?
+   the conclusion in that its much faster to execute this specific workload using a computer as the set of commands that needs to be done is fixed and a computer can do these commands much faster than a human...
+   other usecase: searching anything on the web, analysing stock data, forcasting weather bahaivioure from an online database, automation and tools.
+
+3) how would you run the script every hour? and how would you prevent scanning an already scanned player?
+   running the script every hour can be done automatically using a scheduler in Bash, and to prevent rescanning a scanned player we can create a list of scanned players and everytime we fetch a new player url we check waether this url has been scanned or not, we can also use the players_results.csv file we already created to prevent duplicates in the memory space, can dramatically efect performace if we are talking about big numbers (roughly the size of the L1 cache).
+
+
+   
+
+
