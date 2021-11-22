@@ -42,7 +42,7 @@ do
     N_MID=`cat overview | grep -ioP "midfielder" | wc -l`
     rm -Rf ./overview
     if [[ $N_MID -gt 0 ]] ; then
-	echo "$line,midfield,$N_MID" >> $O_FILE 
+	echo "$line,midfielder,$N_MID" >> $O_FILE 
     fi
 done < $P_URLS
 
