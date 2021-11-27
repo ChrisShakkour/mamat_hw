@@ -1,0 +1,20 @@
+set pagination off
+set breakpoint pending on
+set logging file gdbcmdl.out
+set logging on
+hbreak malloc
+commands
+set $mallocsize = (unsigned long long) $rdi
+continue
+end
+hbreak *(malloc+280)
+commands
+printf "malloc(%lld) = 0x%01611x\n", $mallocsize, $rax
+continue
+end
+hbreak free
+commands
+printf "free(0x%01611x)\n", (unsigned long long) $rdi
+continue
+end
+continue

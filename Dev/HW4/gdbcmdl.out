@@ -1,0 +1,839 @@
+Function "malloc" not defined.
+Hardware assisted breakpoint 1 (malloc) pending.
+gdbcmdl:10: Error in sourced command file:
+No symbol "malloc" in current context.
+Starting program: /home/mamat/Documents/git/mamat_hw/Dev/HW4/prog.exe < test-0.in
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, __GI___libc_malloc (bytes=8) at malloc.c:3023
+3023	malloc.c: No such file or directory.
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4096) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=1024) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=6) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=6) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+[Inferior 1 (process 4979) exited normally]
+Function "malloc" not defined.
+Hardware assisted breakpoint 1 (malloc) pending.
+gdbcmdl:10: Error in sourced command file:
+No symbol "malloc" in current context.
+Starting program: /home/mamat/Documents/git/mamat_hw/Dev/HW4/prog.exe < test-0.in
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, __GI___libc_malloc (bytes=8) at malloc.c:3023
+3023	malloc.c: No such file or directory.
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4096) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=1024) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=6) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=6) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+[Inferior 1 (process 4985) exited normally]
+Function "malloc" not defined.
+Hardware assisted breakpoint 1 (malloc) pending.
+gdbcmdl:10: Error in sourced command file:
+No symbol "malloc" in current context.
+No symbol "malloc" in current context.
+Starting program: /home/mamat/Documents/git/mamat_hw/Dev/HW4/prog.exe < test-0.in
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, __GI___libc_malloc (bytes=8) at malloc.c:3023
+3023	malloc.c: No such file or directory.
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4096) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=1024) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=6) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=6) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+[Inferior 1 (process 5004) exited normally]
+Dump of assembler code for function malloc:
+   0x00007ffff7fec490 <+0>:	endbr64 
+   0x00007ffff7fec494 <+4>:	push   %rbp
+   0x00007ffff7fec495 <+5>:	push   %rbx
+   0x00007ffff7fec496 <+6>:	mov    %rdi,%rbx
+   0x00007ffff7fec499 <+9>:	sub    $0x8,%rsp
+   0x00007ffff7fec49d <+13>:	mov    0x11c4c(%rip),%rdx        # 0x7ffff7ffe0f0
+   0x00007ffff7fec4a4 <+20>:	mov    0x11c4d(%rip),%rax        # 0x7ffff7ffe0f8
+   0x00007ffff7fec4ab <+27>:	test   %rdx,%rdx
+   0x00007ffff7fec4ae <+30>:	je     0x7ffff7fec558 <malloc+200>
+   0x00007ffff7fec4b4 <+36>:	add    $0xf,%rax
+   0x00007ffff7fec4b8 <+40>:	and    $0xfffffffffffffff0,%rax
+   0x00007ffff7fec4bc <+44>:	lea    (%rax,%rbx,1),%rcx
+   0x00007ffff7fec4c0 <+48>:	mov    %rax,0x11c31(%rip)        # 0x7ffff7ffe0f8
+   0x00007ffff7fec4c7 <+55>:	cmp    %rdx,%rcx
+   0x00007ffff7fec4ca <+58>:	jae    0x7ffff7fec4f0 <malloc+96>
+   0x00007ffff7fec4cc <+60>:	mov    %rax,%rdx
+   0x00007ffff7fec4cf <+63>:	neg    %rdx
+   0x00007ffff7fec4d2 <+66>:	cmp    %rbx,%rdx
+   0x00007ffff7fec4d5 <+69>:	jbe    0x7ffff7fec4f0 <malloc+96>
+   0x00007ffff7fec4d7 <+71>:	mov    %rax,0x11c0a(%rip)        # 0x7ffff7ffe0e8
+   0x00007ffff7fec4de <+78>:	mov    %rcx,0x11c13(%rip)        # 0x7ffff7ffe0f8
+   0x00007ffff7fec4e5 <+85>:	add    $0x8,%rsp
+   0x00007ffff7fec4e9 <+89>:	pop    %rbx
+   0x00007ffff7fec4ea <+90>:	pop    %rbp
+   0x00007ffff7fec4eb <+91>:	retq   
+   0x00007ffff7fec4ec <+92>:	nopl   0x0(%rax)
+   0x00007ffff7fec4f0 <+96>:	mov    0x10141(%rip),%rcx        # 0x7ffff7ffc638 <_rtld_global_ro+24>
+   0x00007ffff7fec4f7 <+103>:	mov    %rcx,%rdx
+   0x00007ffff7fec4fa <+106>:	lea    -0x1(%rcx,%rbx,1),%rbp
+   0x00007ffff7fec4ff <+111>:	neg    %rdx
+   0x00007ffff7fec502 <+114>:	and    %rdx,%rbp
+   0x00007ffff7fec505 <+117>:	jne    0x7ffff7fec510 <malloc+128>
+   0x00007ffff7fec507 <+119>:	test   %rbx,%rbx
+   0x00007ffff7fec50a <+122>:	jne    0x7ffff7fec5a0 <malloc+272>
+   0x00007ffff7fec510 <+128>:	add    %rcx,%rbp
+   0x00007ffff7fec513 <+131>:	mov    $0x3,%edx
+   0x00007ffff7fec518 <+136>:	xor    %r9d,%r9d
+   0x00007ffff7fec51b <+139>:	mov    $0x22,%ecx
+   0x00007ffff7fec520 <+144>:	mov    $0xffffffff,%r8d
+   0x00007ffff7fec526 <+150>:	mov    %rbp,%rsi
+   0x00007ffff7fec529 <+153>:	xor    %edi,%edi
+   0x00007ffff7fec52b <+155>:	callq  0x7ffff7fee150
+   0x00007ffff7fec530 <+160>:	mov    %rax,%rdx
+   0x00007ffff7fec533 <+163>:	cmp    $0xffffffffffffffff,%rax
+   0x00007ffff7fec537 <+167>:	je     0x7ffff7fec5a0 <malloc+272>
+   0x00007ffff7fec539 <+169>:	cmp    %rax,0x11bb0(%rip)        # 0x7ffff7ffe0f0
+   0x00007ffff7fec540 <+176>:	je     0x7ffff7fec580 <malloc+240>
+   0x00007ffff7fec542 <+178>:	add    %rbp,%rdx
+   0x00007ffff7fec545 <+181>:	lea    (%rax,%rbx,1),%rcx
+   0x00007ffff7fec549 <+185>:	mov    %rdx,0x11ba0(%rip)        # 0x7ffff7ffe0f0
+   0x00007ffff7fec550 <+192>:	jmp    0x7ffff7fec4d7 <malloc+71>
+   0x00007ffff7fec552 <+194>:	nopw   0x0(%rax,%rax,1)
+   0x00007ffff7fec558 <+200>:	mov    0x100d9(%rip),%rcx        # 0x7ffff7ffc638 <_rtld_global_ro+24>
+   0x00007ffff7fec55f <+207>:	lea    0x11c2a(%rip),%rax        # 0x7ffff7ffe190
+   0x00007ffff7fec566 <+214>:	lea    -0x1(%rcx,%rax,1),%rdx
+   0x00007ffff7fec56b <+219>:	neg    %rcx
+   0x00007ffff7fec56e <+222>:	and    %rcx,%rdx
+   0x00007ffff7fec571 <+225>:	mov    %rdx,0x11b78(%rip)        # 0x7ffff7ffe0f0
+   0x00007ffff7fec578 <+232>:	jmpq   0x7ffff7fec4b4 <malloc+36>
+   0x00007ffff7fec57d <+237>:	nopl   (%rax)
+   0x00007ffff7fec580 <+240>:	mov    0x11b71(%rip),%rax        # 0x7ffff7ffe0f8
+   0x00007ffff7fec587 <+247>:	add    %rbp,%rdx
+   0x00007ffff7fec58a <+250>:	mov    %rdx,0x11b5f(%rip)        # 0x7ffff7ffe0f0
+   0x00007ffff7fec591 <+257>:	lea    (%rax,%rbx,1),%rcx
+   0x00007ffff7fec595 <+261>:	jmpq   0x7ffff7fec4d7 <malloc+71>
+   0x00007ffff7fec59a <+266>:	nopw   0x0(%rax,%rax,1)
+   0x00007ffff7fec5a0 <+272>:	add    $0x8,%rsp
+   0x00007ffff7fec5a4 <+276>:	xor    %eax,%eax
+   0x00007ffff7fec5a6 <+278>:	pop    %rbx
+   0x00007ffff7fec5a7 <+279>:	pop    %rbp
+   0x00007ffff7fec5a8 <+280>:	retq   
+End of assembler dump.
+Starting program: /home/mamat/Documents/git/mamat_hw/Dev/HW4/prog.exe < test-0.in
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, __GI___libc_malloc (bytes=8) at malloc.c:3023
+3023	malloc.c: No such file or directory.
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4096) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=1024) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=6) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=6) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+[Inferior 1 (process 5010) exited normally]
+Function "malloc" not defined.
+Hardware assisted breakpoint 1 (malloc) pending.
+gdbcmdl:10: Error in sourced command file:
+No symbol "malloc" in current context.
+Undefined command: "--command".  Try "help".
+Already logging to gdbcmdl.out.
+Function "malloc" not defined.
+Hardware assisted breakpoint 2 (malloc) pending.
+gdbcmdl:10: Error in sourced command file:
+No symbol "malloc" in current context.
+gdbcmdl:5: Error in sourced command file:
+No hardware breakpoint support in the target.
+Starting program: /home/mamat/Documents/git/mamat_hw/Dev/HW4/prog.exe < test-0.in
+[Inferior 1 (process 5022) exited normally]
+Already logging to gdbcmdl.out.
+gdbcmdl:5: Error in sourced command file:
+No hardware breakpoint support in the target.
+Working directory /home/mamat/Documents/git/mamat_hw/Dev/HW4.
+Function "malloc" not defined.
+Hardware assisted breakpoint 1 (malloc) pending.
+gdbcmdl:10: Error in sourced command file:
+No symbol "malloc" in current context.
+Starting program: /home/mamat/Documents/git/mamat_hw/Dev/HW4/prog.exe < test-0.in
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, 0x00007ffff7fec490 in malloc () from /lib64/ld-linux-x86-64.so.2
+
+Breakpoint 1, __GI___libc_malloc (bytes=8) at malloc.c:3023
+3023	malloc.c: No such file or directory.
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4096) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=1024) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=48) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=6) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=6) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=16) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=24) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=5) at malloc.c:3023
+3023	in malloc.c
+
+Breakpoint 1, __GI___libc_malloc (bytes=4) at malloc.c:3023
+3023	in malloc.c
+[Inferior 1 (process 5051) exited normally]
+Function "malloc" not defined.
+Hardware assisted breakpoint 1 (malloc) pending.
+gdbcmdl:10: Error in sourced command file:
+No symbol "malloc" in current context.
+Undefined command: "walgrind".  Try "help".
+Undefined command: "valgrind".  Try "help".
